@@ -55,6 +55,7 @@ from Replays using Deep Learning (2016), Justesen, et al. [[pdf]](https://njuste
 - Applying Goal-Driven Autonomy to StarCraft (2010), Weber, et al. [[pdf]](http://alumni.soe.ucsc.edu/~bweber/pubs/gda_aiide2010.pdf)
 
 ### Micro Agents
+- Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks (2016), Usunier, et al. [[pdf]](https://arxiv.org/pdf/1609.02993.pdf)
 - Using Monte-Carlo Planning for Micro-Management in Starcraft (2011), Zhe, et al. [[pdf]](http://www.ice.ci.ritsumei.ac.jp/~ruck/PAP/gameonasia12-wang.pdf)
 
 ### Human Analysis of Bots
