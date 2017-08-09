@@ -6,9 +6,7 @@ A list of papers and links referencing the game of Starcraft. This list is meant
 
 With the recently released API from joint work of Blizzard and Deepmind, Starcraft II seems poised to become an exciting testbed for Deep Learning and Artificial Intelligence research. Over the past 8 years, the original game, Starcraft: Brood War, has been used as a research platform through the BWAPI. In order for unexperienced researchers to properly transition to working on problems in Starcraft, they need to learn about past techniques in this field. That is the goal of this repository. 
 
-As a note, there do exist differences between the Starcraft Brood War and Starcraft II. In order to reflect that I have put an indicator of which game each paper in published about. 
-
-Secondly, there is extensive research into reinforcement learning for game agents. Rather than attempting to compile a complete list of papers in this field, lets solely focus on papers working in or mentioning starcraft.
+As a note, there is extensive research into reinforcement learning for game agents. Rather than attempting to compile a complete list of papers in this field, lets solely focus on papers working in or mentioning starcraft.
 
 ## Contents
 
@@ -16,8 +14,6 @@ Secondly, there is extensive research into reinforcement learning for game agent
 * [Bot Competitions](#bot-competitions)
 * [Surveys](#surveys)
 * [Builder Orders](#build-orders)
-
-
 
 ### Starcraft Bots
 - UAlbertaBot [[web]](https://github.com/davechurchill/ualbertabot/wiki)
@@ -37,7 +33,26 @@ Secondly, there is extensive research into reinforcement learning for game agent
 Competition in StarCraft (2013), Santiago Onta˜non, et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-00871001/document)
 
 ### Builder Orders
+- Continual Online Evolutionary Planning for In-Game Build Order Adaptation in StarCraft (2017), Justesen, et al. [[pdf]] (http://sebastianrisi.com/wp-content/uploads/justesen_gecco17.pdf)
 - SCFusion Build Order Optimizer [[web]](http://www.teamliquid.net/forum/starcraft-2/168348-scfusion-wol-hots-and-lotv-build-order-optimizer)
+- Builder Order Optimization in Starcraft (2011), Churchill, et al. [[pdf]](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewFile/4078/4407) 
+- Using genetic algorithms to find Starcraft 2 build orders [[web]](Using genetic algorithms to find Starcraft 2 build orders) 
+
+### Macro Agents
+- Learning Macromanagement in StarCraft
+from Replays using Deep Learning (2016), Justesen, et al. [[pdf]] (https://njustesen.files.wordpress.com/2017/07/njustesen2017learning.pdf)
+- Building Human-Level AI for Real-Time Strategy Games (2011), Weber, et al. [[pdf]](https://pdfs.semanticscholar.org/b1dc/bf2755f69a9a34888736371a1112fb594a9d.pdf)
+- Evolutionary Learning of Goal Priorities in a Real-Time Strategy Game (2012), Young, et al. [[pdf]](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE12/paper/download/5450/5702)
+- Applying Goal-Driven Autonomy to StarCraft (2010), Weber, et al. [[pdf]](http://alumni.soe.ucsc.edu/~bweber/pubs/gda_aiide2010.pdf)
+
+### Micro Agents
+- Using Monte-Carlo Planning for Micro-Management in Starcraft (2011), Zhe, et al. [[pdf]](http://www.ice.ci.ritsumei.ac.jp/~ruck/PAP/gameonasia12-wang.pdf)
+
+### Human Analysis of Bots
+- Evaluation of StarCraft Artificial Intelligence Competition Bots by Experienced Human Players (2016), Kim, et al. [[pdf]] (http://www.cs.cmu.edu/~sjunikim/publications/CHI2016_LBW_Starcraft.pdf)
+
+### Datasets
+- STARDATA: A StarCraft AI Research Dataset (2017), Lin, et al. [[pdf]] (https://arxiv.org/pdf/1708.02139.pdf) 
 
 **We need your contributions!**
 
