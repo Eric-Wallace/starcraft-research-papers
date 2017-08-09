@@ -47,6 +47,7 @@ Competition in StarCraft (2013), Santiago Onta˜non, et al. [[pdf]](https://hal.
 - Using genetic algorithms to find Starcraft 2 build orders [[web]](Using genetic algorithms to find Starcraft 2 build orders) 
 
 ### Macro Agents
+- Multiagent Bidirectionally-Coordinated Nets for Learning to Play StarCraft Combat Games (2017), Peng, et al. [[pdf]](https://arxiv.org/pdf/1703.10069v1.pdf)
 - Learning Macromanagement in StarCraft
 from Replays using Deep Learning (2016), Justesen, et al. [[pdf]](https://njustesen.files.wordpress.com/2017/07/njustesen2017learning.pdf)
 - Building Human-Level AI for Real-Time Strategy Games (2011), Weber, et al. [[pdf]](https://pdfs.semanticscholar.org/b1dc/bf2755f69a9a34888736371a1112fb594a9d.pdf)
