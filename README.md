@@ -8,6 +8,8 @@ With the recently released API from joint work of Blizzard and Deepmind, Starcra
 
 As a note, there do exist differences between the Starcraft Brood War and Starcraft II. In order to reflect that I have put an indicator of which game each paper in published about. 
 
+Secondly, there is extensive research into reinforcement learning for game agents. Rather than attempting to compile a complete list of papers in this field, lets solely focus on papers working in or mentioning starcraft.
+
 ## Contents
 
 * [Starcraft Bots](#starcraft-bots)
