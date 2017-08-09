@@ -13,13 +13,12 @@ As a note, there do exist differences between the Starcraft Brood War and Starcr
 * [Starcraft Bots](#starcraft-bots)
 * [Bot Competitions](#bot-competitions)
 * [Surveys](#surveys)
+* [Builder Orders](#build-orders)
+
 
 
 ### Starcraft Bots
 - UAlbertaBot [[web]](https://github.com/davechurchill/ualbertabot/wiki)
-
-
-
 
 ### Bot Competitions
 - AIIDE Starcraft AI Competition [[web]](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
@@ -34,6 +33,9 @@ As a note, there do exist differences between the Starcraft Brood War and Starcr
 ### Surveys
 - A Survey of Real-Time Strategy Game AI Research and
 Competition in StarCraft (2013), Santiago Onta˜non, et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-00871001/document)
+
+### Builder Orders
+- SCFusion Build Order Optimizer [[web]](http://www.teamliquid.net/forum/starcraft-2/168348-scfusion-wol-hots-and-lotv-build-order-optimizer)
 
 **We need your contributions!**
 
