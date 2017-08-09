@@ -39,7 +39,7 @@ As a note, there is extensive research into reinforcement learning for game agen
 - A Survey of Real-Time Strategy Game AI Research and
 Competition in StarCraft (2013), Santiago Onta˜non, et al. [[pdf]](https://hal.archives-ouvertes.fr/hal-00871001/document)
 
-### Builder Orders
+### Build Orders
 - Continual Online Evolutionary Planning for In-Game Build Order Adaptation in StarCraft (2017), Justesen, et al. [[pdf]](http://sebastianrisi.com/wp-content/uploads/justesen_gecco17.pdf)
 - SCFusion Build Order Optimizer [[web]](http://www.teamliquid.net/forum/starcraft-2/168348-scfusion-wol-hots-and-lotv-build-order-optimizer)
 - Builder Order Optimization in Starcraft (2011), Churchill, et al. [[pdf]](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE11/paper/viewFile/4078/4407) 
