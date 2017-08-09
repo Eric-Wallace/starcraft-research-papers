@@ -33,6 +33,7 @@ As a note, there is extensive research into reinforcement learning for game agen
 
 ### Brood War API 
 - Brood War API [[web]](https://bwapi.github.io/)
+- Torchcraft [[web]](https://github.com/TorchCraft/TorchCraft)
 - Atlantis Java Wrapper [[web]](https://github.com/Ravaelles/Atlantis/tree/develop)
 
 ### Surveys
