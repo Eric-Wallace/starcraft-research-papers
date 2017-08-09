@@ -21,7 +21,7 @@ As a note, there is extensive research into reinforcement learning for game agen
 * [Datasets](#datasets)
 * [Other](#other)
 
-- StarCraft II: A New Challenge for Reinforcement Learning (2017) [[pdf]](https://deepmind.com/documents/110/sc2le.pdf)
+StarCraft II: A New Challenge for Reinforcement Learning (2017) [[pdf]](https://deepmind.com/documents/110/sc2le.pdf)
 
 ### Starcraft Bots
 - UAlbertaBot [[web]](https://github.com/davechurchill/ualbertabot/wiki)
